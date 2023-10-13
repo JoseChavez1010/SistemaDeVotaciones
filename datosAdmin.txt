@@ -1,0 +1,5 @@
+15|jose|Chavez Mutzús|jose@gmail.com|jose|5898|habilitado
+16|pepe|Chavez Mutzús|jose@gmail.com|jose|5898|habilitado
+17|maria|Chavez Mutzús|jose@gmail.com|jose|5898|habilitado
+15|Anderson|Castillo|annderson@gmail.com|ñj|5898|habilitado
+2331|Marcos|Chavez Mutzús|jose@gmail.com|jose|5898|habilitado
